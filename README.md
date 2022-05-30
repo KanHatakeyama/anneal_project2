@@ -1,5 +1,5 @@
 # Molecule generation by supervised/unsupervised machine learning and quantum-inspired annealing
--Codes for "manuscript in preparation"
+-Codes for [ChemRxiv](https://chemrxiv.org/engage/chemrxiv/article-details/62575b815b9009f6750d41bd)
 
 # Usage
 - You can run jupyter notebook codes for the demo codes
